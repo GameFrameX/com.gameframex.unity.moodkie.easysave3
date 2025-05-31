@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.5.19](https://github.com/GameFrameX/com.gameframex.unity.moodkie.easysave3/tree/3.5.19) (2025-05-31)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.moodkie.easysave3/compare/3.5.18...3.5.19)
+
 ## [3.5.18](https://github.com/GameFrameX/com.gameframex.unity.moodkie.easysave3/tree/3.5.18) (2025-05-30)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.moodkie.easysave3/compare/3.5.17...3.5.18)
