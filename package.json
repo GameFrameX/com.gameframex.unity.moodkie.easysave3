@@ -1,7 +1,7 @@
 {
   "name": "com.gameframex.unity.moodkie.easysave3",
   "displayName": "Easy Save",
-  "version": "3.5.18",
+  "version": "3.5.19",
   "unity": "2019.4",
   "description": "Easy Save可以让你轻松地跨平台保存几乎任何东西，同时还具有加密、压缩、云存储、电子表格、备份等功能。",
   "author": {
